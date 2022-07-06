@@ -115,10 +115,10 @@ body {
     center top/cover;
 }
 .slide:nth-child(5) {
-  background: url('https://source.unsplash.com/ULmaQh9Gvbg/1600x900') no-repeat
+  background: url('theblock.jpeg') no-repeat
     center top/cover;
 } 
 .slide:nth-child(6)  {
-  background: url('https://source.unsplash.com/ggZuL3BTSJU/1600x900') no-repeat
+  background: url('mjchamp.jpeg') no-repeat
     center center/cover;
 }
